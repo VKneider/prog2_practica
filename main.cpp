@@ -1,6 +1,7 @@
-asdasd
-adsadsas
-asd
-d
-gfggf
-gfghfghhjkjkkjh
+#include <iostream>
+
+using namespace std;
+
+int main() {
+    return 0;
+}
